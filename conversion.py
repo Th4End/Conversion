@@ -8,3 +8,4 @@ print(int(nombre))
 print(bin(nombre))
 print(hex(nombre))
 print(int(nombre))
+#dev par Th4End
